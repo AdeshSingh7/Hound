@@ -42,9 +42,11 @@ This tool requires PHP for the webserver, wget & unzip for downloading and extra
 
 ## Installing (Kali Linux/Termux):
 
-`git clone https://github.com/AdeshSingh7/Hound.git`
-`cd hound`
-`bash hound.sh`
+```
+git clone https://github.com/AdeshSingh7/Hound.git
+cd hound
+bash hound.sh
+```
 
 - Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.
 
