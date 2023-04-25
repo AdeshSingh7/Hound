@@ -38,7 +38,9 @@ The tool offers a wide range of features and functionality, including:
 
 This tool requires PHP for the webserver, wget & unzip for downloading and extracting ngrok. First, run the following command on your terminal:
 
-`apt-get -y install php unzip git wget`
+```
+apt-get -y install php unzip git wget
+```
 
 ## Installing (Kali Linux/Termux):
 
